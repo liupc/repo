@@ -1,5 +1,7 @@
 ##<center>How To Use Markdown quickly!</center>##
+
 *前言*
+
 markdown是一种轻量级的标记语言，与html不同的是，它设计的目的就是让文档的可读性更高，让格式直接成为文档书写的一部分，而不是像office那样，后期去通过各种工具和按钮来修改装饰。
 
 html拥有的标记，在markdown里面都能够使用，但是，markdown本身的标记是被简化和重新设计过的。不过在html标记里面会disable掉本身的标记特性，因此，想要同时使用markdown的标记带来的格式和html的标记，需要将markdown标记置于html标记外层。像我的title其实就是在`##`内部包含了`<center>`标签。
